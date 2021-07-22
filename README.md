@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+ hi human, :)
+ i am roza and mostly i like to talk about space
